@@ -12,3 +12,6 @@ set autoindent
 
 " Show line and column number of the cursor position
 set ruler
+
+" Show line numbers before each line
+set number
