@@ -9,3 +9,6 @@ set shiftwidth=2
 
 " Use indent from current line for new line
 set autoindent
+
+" Show line and column number of the cursor position
+set ruler
