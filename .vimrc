@@ -18,3 +18,6 @@ set ruler
 
 " Show line numbers before each line
 set number
+
+" Configurations for C file
+autocmd FileType c setlocal cindent
