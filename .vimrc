@@ -21,3 +21,6 @@ set number
 
 " Configurations for C file
 autocmd FileType c setlocal cindent
+
+" Configurations for C++ file
+autocmd FileType cpp setlocal cindent
