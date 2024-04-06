@@ -18,9 +18,3 @@ set ruler
 
 " Show line numbers before each line
 set number
-
-" Configurations for C
-autocmd FileType c setlocal cindent
-
-" Configurations for C++
-autocmd FileType cpp setlocal cindent
