@@ -1,3 +1,6 @@
+" Set filetype detection, plugin, and indent on
+filetype plugin indent on
+
 " Use spaces for tab indentation
 set expandtab
 
